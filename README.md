@@ -1,6 +1,6 @@
 # Deep Q-Learning Treasure Maze
 
-[![Reinforcement-learning tests](https://github.com/PhantomOSG-25/CS-370-Current-Emerging-Trends/actions/workflows/test.yml/badge.svg)](https://github.com/PhantomOSG-25/CS-370-Current-Emerging-Trends/actions/workflows/test.yml)
+[![Reinforcement-learning tests](https://github.com/PhantomOSG-25/deep-q-learning-treasure-maze/actions/workflows/test.yml/badge.svg)](https://github.com/PhantomOSG-25/deep-q-learning-treasure-maze/actions/workflows/test.yml)
 
 **Python 3.11 | TensorFlow | NumPy | Deep Q-Learning**
 
